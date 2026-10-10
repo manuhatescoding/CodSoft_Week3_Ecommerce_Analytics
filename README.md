@@ -4,9 +4,6 @@ An end-to-end analytics project on the **Olist Brazilian E-Commerce Public Datas
 
 *Completed as part of the CodSoft Data Analytics Internship (Week 3).*
 
-![Dashboard preview](screenshots/executive_overview.png)
-<!-- Replace the path above with your actual dashboard screenshot. -->
-
 ---
 
 ## Table of Contents
@@ -102,19 +99,6 @@ A five-page report built on an item-level sales fact table connected to dimensio
 
 **DAX measures include:** total revenue, total orders, total customers, average order value, order-item count, freight metrics, repeat-customer measures, average item price and year-over-year revenue.
 
-## Key Findings
-
-<!--
-Add 3 to 5 real findings from your dashboard, for example:
-- Top category by revenue: ...
-- Best-performing year: ...
-- Share of repeat customers: ...
-- Top state by revenue: ...
-Only include numbers you can see in your own report.
--->
-
-*(Add your findings here.)*
-
 ## Data Limitations
 
 Being clear about what the data does not contain was a deliberate part of this project.
@@ -160,5 +144,5 @@ Being clear about what the data does not contain was a deliberate part of this p
 
 ## Author
 
-**Manu**
+**Manoj**
 CodSoft Data Analytics Intern
